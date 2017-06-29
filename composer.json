@@ -1,17 +1,16 @@
 {
-    "name": "geekghc/flash",
+    "name": "dali/tools",
     "description": "flash for laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": "GeekGhc",
-            "email": "ghcgavin@sina.com"
+            "name": "thehappymouse",
+            "email": "thehappymouse@gmail.com"
         }
     ],
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.5.9",
-        "doctrine/dbal" : "2.4.*"
     },
     "require-dev": {
         "phpunit/phpunit": "~5.7",
